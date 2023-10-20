@@ -20,3 +20,14 @@ Afterward, I will create a ***Queue*** for the initiator and another ***Queue***
 Finally, I will create two ***Services***: one for the initiator and another for the target. These services will act as the endpoints for the conversation and will be associated with their respective queues.
 
 ![application](https://github.com/mortylen/sql-service-broker/blob/main/img/sbtest-anim.gif?raw=true)
+
+## Create, set up and test in 4 steps:
+
+You can find the source sql in **[src/](https://github.com/mortylen/sql-service-broker/blob/main/src/)**
+
+- *[01_create_playground.sql](https://github.com/mortylen/sql-service-broker/blob/main/src/01_create_playground.sql)*
+- *[02_configure_service_broker.sql](https://github.com/mortylen/sql-service-broker/blob/main/src/02_configure_service_broker.sql)*
+- *[03_create_trigger_stored_procedure.sql](https://github.com/mortylen/sql-service-broker/blob/main/src/03_create_trigger_stored_procedure.sql)*
+- *[04_test.sql](https://github.com/mortylen/sql-service-broker/blob/main/src/04_test.sql)*
+
+### How does it all work? See the article: **[Project article.](https://mortylen.hashnode.dev/sql-service-broker-my-first-steps)**
