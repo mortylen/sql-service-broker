@@ -1,6 +1,6 @@
 ![application](https://github.com/mortylen/sql-service-broker/blob/main/img/sbdiagram-anim.gif?raw=true)
 
-# sql-service-broker
+# SQL Service Broker
 ## Service Broker for Microsoft SQL. Commands for setup and testing.
 
 **[PROJECT ARTICLE](https://mortylen.hashnode.dev/sql-service-broker-my-first-steps)**
